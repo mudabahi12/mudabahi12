@@ -1,3 +1,4 @@
+This is my Second Account 1st account Removed from github due to some Error.
 👋 Hi, I’m @mudabahi12  
 👀 I’m interested in web development, video editing, AI, and game development.  
 🌱 I’m currently learning advanced JavaScript and game development.  
